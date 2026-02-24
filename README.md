@@ -8,27 +8,13 @@ A task management system demonstrating clean architecture, type safety, and corr
 
 ## 📹 Video Walkthrough
 
-<!-- 
-  OPTION 1: Local video in repo (recommended for GitHub)
-  Place your video at video/walkthrough.mp4 and uncomment:
--->
-<!--
 <video src="video/walkthrough.mp4" controls width="100%">
   Your browser does not support the video tag.
 </video>
--->
 
-<!-- 
-  OPTION 2: YouTube / Loom link
-  Replace YOUR_VIDEO_ID with your actual video ID:
--->
-<!-- [![Watch the Walkthrough](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
-
-> **⬆️ After recording, uncomment one of the options above and delete the other.**
+> **Walkthrough covers**: Architecture · Code structure · Technical decisions · AI usage · Risks · Extension approach
 >
-> The walkthrough covers: Architecture · Code structure · Technical decisions · AI usage · Risks · Extension approach
->
-> Script: [`docs/WALKTHROUGH_SCRIPT.md`](docs/WALKTHROUGH_SCRIPT.md)
+> **Script reference**: [`docs/WALKTHROUGH_SCRIPT.md`](docs/WALKTHROUGH_SCRIPT.md)
 
 ---
 
